@@ -16,4 +16,12 @@ purposes.
 Open the index.html file in a browser and you are done.
 
 ## Screenshots
+![Screenshot-1](https://user-images.githubusercontent.com/22764320/39032914-30ff3214-448d-11e8-8618-6debc4be0f3f.png)
+
+![Screenshot-2](https://user-images.githubusercontent.com/22764320/39032916-31a6266e-448d-11e8-9e19-272669e17b01.png)
+
+![Screenshot-3](https://user-images.githubusercontent.com/22764320/39032918-32dd145c-448d-11e8-8d68-c2888869e90c.png)
+
+![Screenshot-4](https://user-images.githubusercontent.com/22764320/39032921-373d1e3e-448d-11e8-8037-5e64fabacce0.png)
+
 
